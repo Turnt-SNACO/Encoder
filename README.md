@@ -1,2 +1,2 @@
 # Encoder
-Home-brewed encoding
+Home-brewed substitution cipher. Not secure.
